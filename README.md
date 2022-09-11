@@ -1,5 +1,6 @@
 ### About me 👋
 🔭 I’m currently working on WED.Inc
+
 🌱 I’m currently learning Go, DDD, k8s.
 
 
